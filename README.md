@@ -1,13 +1,16 @@
 # lynxbox
 A basic jquery plugin
+
 Installation
+
+
 1. Download
 
 2. Create a div with "images" class and place images within
 <dl>
-<div class="images">
+<dt><div class="images">
           <img src='example.jpg' alt=''/>
-                <img src='example.jpg' alt=''/></div>
+                <img src='example.jpg' alt=''/></div></dt>
                 </dl>
 3. Customize
 
