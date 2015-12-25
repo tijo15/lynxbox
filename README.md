@@ -9,10 +9,11 @@ Installation
 2. Create a div with "images" class and place images within
 ```
 <div class="images">
-          <img src='example.jpg' alt=''/>
-                <img src='example.jpg' alt=''/></div>
+<img src='example.jpg' alt=''/>
+<img src='example.jpg' alt=''/>
+</div>
                
-                ```
+ ```
 3. Customize
 
 Call on the plugin and change theese values as you like.
